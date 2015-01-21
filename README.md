@@ -2,6 +2,10 @@
 
 This is a simple chat demo for socket.io and Android. You can connect to [chat.socket.io](http://socket.io/demos/chat/) using this app.
 
+![](https://github.com/AndroidBase/socket.io-android-chat/blob/master/chat.png)
+
+
+
 ## Installation
 
 1. Clones the project.
@@ -11,4 +15,5 @@ This is a simple chat demo for socket.io and Android. You can connect to [chat.s
 ## License
 
 MIT
+
 
